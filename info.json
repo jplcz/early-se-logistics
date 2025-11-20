@@ -1,0 +1,13 @@
+{
+    "name": "early-se-logistics",
+    "version": "0.0.1",
+    "title": "Early Space Exploration Logistics",
+    "author": "Jarosław Pelczar", 
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base >= 2.0.67",
+        "space-exploration >= 0.7.36"
+    ],
+    "description": "Simple mod which allows research of logistics network using rocket science, however logistics is expensive and requires 10k of each science",
+    "homepage": "https://github.com/jplcz/early-se-logistics"
+}
